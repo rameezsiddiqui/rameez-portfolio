@@ -1,50 +1,87 @@
-# rameez-portfolio
-RAMEEZ UR REHMAN SIDDIQUI                            Date of Birth: Oct,1996
-Mobile: 03352207870 | 03092170979				Email: rameez.siddiqui2@gmail.com 
-                                              
-SUMMARY
-Specializing in Data Science and AI and its application in Medical Sciences. I am driven by a passion for continuous learning. With expertise in Python programming and statistical tools, my focus is on exploring cutting-edge developments in Data Analysis, error detection, and mastering complexities in Computer Vision, ML, Neuro Imaging and Deep Learning models.
+# Rameez Siddiqui's Portfolio
 
-EMPLOYMENT HISTORY
-Lecturer | Paf-KIET University		(Oct 2022 - Present)
-Conduct sessions and research on Data Science, Artificial Intelligence, ML, DL, OOP and Computer Vision.
-Work on python, Excel, RoboFlow, 3d Slicer, etc.
+**RAMEEZ UR REHMAN SIDDIQUI**  
+📅 **Date of Birth:** Oct 1996  
+📞 **Mobile:** +92 335 2207870 | +92 309 2170979  
+📧 **Email:** rameez.siddiqui2@gmail.com  
 
-Sub Asst. Engineer | Artistic Milliners Pvt. Ltd.		(Sep 2019 - Nov 2021)
-Decrease downtime by applying automation
-Utilizing AI in maintaining and optimizing denim machine maintenance and supply chain. 
+---
 
-Tr. Engineer | Indus Motors Company Ltd.		(Apr 2018 -- Apr 2019)
-Served as a Certified “Quality Control Circle” Trainer and engineer in Assembly shop.
+## 🧠 Summary
 
-EDUCATION
-MS Data Science            | NED University of Engineering and Technology		(Jun 2021 - Aug 2023)
-BE Mechanical                | NED University of Engineering and Technology 		(Jan 2014 - Dec 2017)
-HSSC (Aga Khan Board) | Habib Public High School					(Aug 2011 - May 2013)
+Specializing in **Data Science** and **AI**, with a focus on their applications in **Medical Sciences**. I am driven by a passion for continuous learning and advancing solutions through Python programming and statistical tools. My interests include:
 
-ACHIEVEMENT
-Won Beak Through Award in FSAE (Formula Student Automotive Engineering) competition organized by IMechE, held in Silver Stone Circuit, near London, United Kingdom. 		 (Jul 2017)
+- Data Analysis
+- Error Detection
+- Computer Vision
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Neuro Imaging
 
-PROJECTS
--Thesis on Computer Vision i.e. Object Detection of UAV image custom data using YOLOv5, v8 and NAS.
--Working on pre-processing strategies for MRI Image analysis using Computer vision python libraries.
--Error check/finding and analyzing of university student data using Python.
+---
 
-SKILLS
-Languages & Tools:  Python, R, C++, SQL, SolidWorks.
-Database & Stats.:    Excel, MYSQL, STATA.
-Libraries:                    NumPy, Pandas, Sklearn, Pytorch, Tensorflow, OpenCV, Seaborn, Nibabel, YOLO.
-Others:                       MS Office, Git .
+## 💼 Employment History
 
-CERTIFICATIONS
-Computer Vision for Neuro Imaging          | Aga Khan University			(24 -- 26 Jan 2024)   
-Data Analysis and ML Training                    | Aga Khan University			(28 -- 29 Dec 2023)
-AWS Machine Learning Foundation           | Udacity				(Aug 2022 -- Nov 2022)
-Object Oriented Programming 	                | NED University			(Nov 2020 -- Apr 2021)
-Probability and Statistic for Data Science | NED University			(Nov 2020 -- Apr 2021) 
-    Artificial Intelligence Diploma                     | PIAIC			(Apr 2019 -- Jun 2021)
-   What is Data Science                                    |Coursera			(Oct 2020)
-   Python for DS, AI & Development              | Coursera			(Jun 2020)
-   AI For Everyone                                             | Coursera			(Jun 2019)
-   Quality Control Certified Trainer                 | Indus Motors Company 			(Nov 2018)
-   First Aid and CPR, Basic Fire Fighting.
+### Lecturer | PAF-KIET University _(Oct 2022 – Present)_
+- Conduct sessions and research on Data Science, AI, ML, DL, OOP, and Computer Vision.
+- Tools used: Python, Excel, RoboFlow, 3D Slicer.
+
+### Sub Assistant Engineer | Artistic Milliners Pvt. Ltd. _(Sep 2019 – Nov 2021)_
+- Decreased machine downtime through automation.
+- Applied AI for maintenance optimization and supply chain management.
+
+### Trainee Engineer | Indus Motors Company Ltd. _(Apr 2018 – Apr 2019)_
+- Certified Quality Control Circle Trainer.
+- Worked in the Assembly Shop department.
+
+---
+
+## 🎓 Education
+
+- **MS Data Science** – NED University of Engineering & Technology _(Jun 2021 – Aug 2023)_
+- **BE Mechanical Engineering** – NED University _(Jan 2014 – Dec 2017)_
+- **HSSC** – Habib Public High School, Aga Khan Board _(Aug 2011 – May 2013)_
+
+---
+
+## 🏆 Achievements
+
+- **Breakthrough Award**, FSAE (Formula Student Automotive Engineering) by IMechE  
+  _(Held at Silverstone Circuit, UK – Jul 2017)_
+
+---
+
+## 🧪 Projects
+
+- **Thesis**: Object Detection in UAV imagery using YOLOv5, YOLOv8, and NAS.
+- **MRI Image Analysis**: Preprocessing strategies using Python and Computer Vision libraries.
+- **University Student Data Analysis**: Error detection and analysis using Python.
+
+---
+
+## 🛠 Skills
+
+- **Languages & Tools**: Python, R, C++, SQL, SolidWorks  
+- **Database & Stats**: Excel, MySQL, STATA  
+- **Libraries**: NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, OpenCV, Seaborn, Nibabel, YOLO  
+- **Other Tools**: MS Office, Git  
+
+---
+
+## 📜 Certifications
+
+- **Computer Vision for Neuro Imaging** – Aga Khan University _(Jan 2024)_  
+- **Data Analysis and ML Training** – Aga Khan University _(Dec 2023)_  
+- **AWS Machine Learning Foundation** – Udacity _(Aug – Nov 2022)_  
+- **Object Oriented Programming** – NED University _(Nov 2020 – Apr 2021)_  
+- **Probability and Statistics for Data Science** – NED University _(Nov 2020 – Apr 2021)_  
+- **Artificial Intelligence Diploma** – PIAIC _(Apr 2019 – Jun 2021)_  
+- **What is Data Science** – Coursera _(Oct 2020)_  
+- **Python for DS, AI & Development** – Coursera _(Jun 2020)_  
+- **AI for Everyone** – Coursera _(Jun 2019)_  
+- **Quality Control Certified Trainer** – Indus Motors Company _(Nov 2018)_  
+- **First Aid, CPR & Basic Fire Fighting**
+
+---
+
+
